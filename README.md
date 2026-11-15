@@ -2,7 +2,8 @@
 <h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to <a href="https://diinki.me" target="_blank">my</a> github page <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
-Hello! I'm Hasan, a cybersecurity student and an all around techie ✧ (=w=) ✦ The network of creation is my home. <br>
+🏴‍☠️ Hello! I'm Hasan, a cybersecurity student and an all around techie ✧ (=w=) ✦ The network of creation is my home. <br>
+My own website is <a href="https://dedsn4keisonline.github.io/Portfolio-website/" target="_blank">H.Q</a> 🏴‍☠️
 </p>
 <h1> </h1>
 <br>
